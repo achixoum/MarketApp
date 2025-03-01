@@ -16,7 +16,12 @@ To download and run the MarketApp, follow these steps:
    ```sh
    git clone https://github.com/achixoum/MarketApp.git
    ```
-2. **Run the application**:
+2. **Change Directory**:
+   Run the following command to open the directory of the cloned repository:
+   ```sh
+   cd MarketApp
+   ```
+3. **Run the application**:
    After downloading the JAR file, you can run the application using the following command:
    ```sh
    java -jar out/artifacts/MyMarket_jar2/MyMarket.jar
