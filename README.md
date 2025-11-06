@@ -5,7 +5,7 @@ username:admin1
 password:password1
 The products in the market are in greek terms as the project is based on predetermined files that define
 the information about products.
-*All the data and information that are necessary for the app are saved and stored locally in disk
+*All the data and information that are necessary for the app are saved and stored locally in disk.
 
 ## Download Instructions
 

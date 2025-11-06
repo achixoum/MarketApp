@@ -146,7 +146,7 @@ public class Admin extends User implements AdminActions, Serializable {
      */
     @Override
     public ArrayList<Product> getMostOrderProducts(Inventory inventory) {
-        if (inventory == null)
+        if (inventory == null) //null
             throw new IllegalArgumentException("Cannot access null inventory object");
 
         //getting all the products and sorting them by their orders that they have been in
